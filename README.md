@@ -1,18 +1,35 @@
-Calculator:-
-This file consist of calculator from the python, this file works on the command line directly and is optimized with history.
-This calculator has addition, substraction, division and multiplication.
-The history option works over the questions asked at that moment only, keeping track of only and only that moment calculation.
------
-Password Generator code:-
-This code consist of HTML, CSS and JS scripts.
-This password generator works on 5 parameters
-  LowerCase
-  UpperCase
-  Number
-  Special characters
-  Remove repeated numbers
-You can also adjust the length of password from 6 to 128 characters
-Also cherry on top is strength monitor of your password is also added for understanding how strong your password which generator is really is.
------
-This repo is all about the project which I have created under the Micro IT internship.
-Thank you.
+# 🔧 Micro IT Internship Projects
+
+A showcase of my projects created during the **Micro IT Internship**. This repository contains a command-line **Python Calculator** with history tracking and a feature-rich **Password Generator** built using HTML, CSS, and JavaScript.
+
+---
+
+## 📁 Projects Included
+
+### 📌 1. Command-Line Calculator (Python)
+A simple yet efficient calculator that runs directly in the terminal with support for:
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+
+🧠 **History Tracking**  
+Keeps a temporary history of calculations during the session for quick review.
+
+> ⚠️ Note: History is session-based and resets after closing the program.
+
+---
+
+### 📌 2. Password Generator (HTML | CSS | JavaScript)
+A dynamic and secure password generator with adjustable settings.
+
+**🔐 Features:**
+- ✅ Lowercase Letters
+- ✅ Uppercase Letters
+- ✅ Numbers
+- ✅ Special Characters
+- ✅ Option to Remove Repeated Characters
+- 🔄 Adjustable Password Length (6–128 characters)
+- 🔎 Password Strength Meter
+
+---
