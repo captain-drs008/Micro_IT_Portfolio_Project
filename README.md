@@ -33,3 +33,4 @@ A dynamic and secure password generator with adjustable settings.
 - 🔎 Password Strength Meter
 
 ---
+> ⚠️ Note: Both of files are seprate files 
